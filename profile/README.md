@@ -8,7 +8,7 @@
 
 **We have you covered!**
 
-We are a group of seven electrical engineering students. Together we enjoy electronics and work hard on our own projects in our spare time.
+We are a group of eight electrical engineering students. Together we enjoy electronics and work hard on our own projects in our spare time.
 However, we feel that these projects should not be done in the privacy of our own homes. It's more fun together and the learning effect is greater for everyone.
 
 That's why we started an eMakerspace@OST in Rapperswil.
